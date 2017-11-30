@@ -1,0 +1,24 @@
+body {
+	background: url("http://cdn1.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/08/hr_filmschools_01-h_2016.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% ;
+}
+
+.panel {
+	background: black ;
+	width: 60% ;
+	color: white ;
+	margin-left: auto ;
+	margin-right: auto ;
+	margin-top: 40px ;
+	text-align: center;
+}
+
+.btn {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+h2 {
+	margin-top: 30px;
+}
